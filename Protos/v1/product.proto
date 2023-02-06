@@ -1,0 +1,46 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "TxGrpcClient.v1";
+
+package TxGrpcService.v1;
+
+import "google/protobuf/empty.proto";
+
+
+service ProductService {
+    rpc GetAll(google.protobuf.Empty) returns (stream ProductReply) {}
+    rpc Get(ProductIdRequest) returns (ProductReply) {}
+    rpc Delete(stream ProductIdRequest) returns (google.protobuf.Empty) {}
+    rpc Update(ProductUpdateRequest) returns (google.protobuf.Empty) {}
+    rpc Create(stream ProductCreationRequest) returns (stream ProductCreationReply) {}
+}
+
+message ProductReply {
+    int32 Id = 1;
+    string Name = 2;
+    string Description = 3;
+    double Price = 4;
+}
+
+message ProductIdRequest {
+    int32 Id = 1;
+}
+
+message ProductUpdateRequest {
+    int32 Id = 1;
+    string Name = 2;
+    string Description = 3;
+    double Price = 4;
+}
+
+message ProductCreationRequest {
+    string Name = 2;
+    string Description = 3;
+    double Price = 4;
+}
+message ProductCreationReply {
+    int32 Id = 1;
+    string Name = 2;
+}
+
+

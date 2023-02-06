@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "cc9jTL090Mssf3iUdRrVOH81wWh3ZbCrLFm8WyJw+MxyULwdD4ot014xE8Zlv4HTFYp0qXvV72X1GnOOMxuEYg==",
+  "success": true,
+  "projectFilePath": "/Users/mth/Projects/TxGrpcClient/TxGrpcClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/mth/.nuget/packages/google.protobuf/3.21.12/google.protobuf.3.21.12.nupkg.sha512",
+    "/Users/mth/.nuget/packages/grpc.core.api/2.51.0/grpc.core.api.2.51.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/grpc.net.client/2.51.0/grpc.net.client.2.51.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/grpc.net.clientfactory/2.51.0/grpc.net.clientfactory.2.51.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/grpc.net.common/2.51.0/grpc.net.common.2.51.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/grpc.tools/2.51.0/grpc.tools.2.51.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.configuration.binder/7.0.0/microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.http/3.0.3/microsoft.extensions.http.3.0.3.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.logging.configuration/7.0.0/microsoft.extensions.logging.configuration.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.logging.console/7.0.0/microsoft.extensions.logging.console.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.options.configurationextensions/7.0.0/microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/mth/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/mth/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

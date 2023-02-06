@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CD22A402-2E78-453A-BC95-581517097456}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="25" Column="49" />
+      <File FileName="Protos/v1/product.proto" Line="3" Column="43" />
+      <File FileName="TxGrpcClient.csproj" Line="1" Column="1" />
+      <File FileName="Protos/greet.proto" Line="5" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TxGrpcClient" expanded="True" selected="True">
+            <Node name="TxGrpcClient" expanded="True">
+              <Node name="ConnectedServicesFolder" expanded="True" />
+              <Node name="Protos" expanded="True">
+                <Node name="v1" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TxGrpcClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
